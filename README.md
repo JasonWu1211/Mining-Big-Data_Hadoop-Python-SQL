@@ -1,1 +1,1 @@
-# Mining-Big-Data_Hadoop-Python-SQL
+# Mining Big Data | Hadoop, Python, SQL, AWS
